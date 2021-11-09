@@ -6,12 +6,12 @@ On the first day of this project, I looked at numerous tools, and the one that p
 The first tool that caught my interest and which I chose is [Three.js](https://threejs.org/). There are several tools that appear to be cool, as well as numerous games and codes. It was my original option, with a backup plan to do a calendar if things became too difficult. I had two possibilities for what I could do with three.js in terms of 3D.
 
 
-*Illusion
+* Illusion
 
 
 Or, 
 
-*A heart
+* A heart
 
 And after considerable deliberation, I concluded that a heart, a beating heart, would be cooler. I'd add some sort of effect, like blood or a knife. I will try to include anything that could be added. I looked at the code for constructing a scene (https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) and thought it was quite nice. Pretty hard to learn but with many videos, I think I have got it. And that is one skill I will be using. Learning to design things on my own, learning new code, and eventually doing it on my own with help if needed. I'll use my basic coding abilities and understanding of some code.
 
