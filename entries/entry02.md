@@ -33,8 +33,15 @@ I was wondering what `THREE.Mesh` would do. I searched it up on google and read 
 
 All of these new information, I wrote them down on my notes, so I don't forget. I also used them to try and create a scene. 
 
-### What I tried on the website 
+### What I will do over the break
 
+I use my skills with knowing how to read code. This code wouldn’t look filmair to someone who didn’t learn javascript or coding. I will also use these skills to try to make more figures on my own. When I go to the [website](https://jsfiddle.net/fxurzeb4/) it has a bunch of codes and examples on creating a scene. 
+
+I still don’t know where exactly to code. Perhaps I will research more or use this [website](https://jsfiddle.net/fxurzeb4/) to do the coding. I will work on that over the break. I will do more research on how to create a large object, how to make it move and how to edit the background. 
+
+Hopefully I will be able to do the heart, since I want to add multiple details that I still don’t know what. (which will take more time) 
+
+---
 
 
 [Previous](entry01.md) | [Next](entry03.md)
