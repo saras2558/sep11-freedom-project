@@ -14,7 +14,7 @@ BoxGeometry is a geometry class for a rectangular cuboid with a given 'width', '
 
 I have also learned another way that allows you to specify whether or not a variable is modifiable.
 `const` 
-Which works similar like a variable. 
+Which works similar like a variable `Var`
 
 .
 .
