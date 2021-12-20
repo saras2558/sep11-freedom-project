@@ -31,6 +31,8 @@ A 3D vector is an ordered triplet of numbers (labeled x, y, and z), which can be
  
 I was wondering what `THREE.Mesh` would do. I searched it up on google and read multiple articles, but for short: A mesh is an object that takes a geometry, and applies a material to it, which we then can insert to our scene, and move freely around. By default, when we call a scene.
 
+All of these new information, I wrote them down on my notes, so I don't forget. I also used them to try and create a scene. 
+
 ### What I tried on the website 
 
 
