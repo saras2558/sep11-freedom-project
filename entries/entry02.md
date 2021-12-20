@@ -10,16 +10,23 @@ In my last blog, I talked about what I learned, what I considered doing and how 
 BoxGeometry is a geometry class for a rectangular cuboid with a given 'width', 'height', and 'depth'. On creation, the cuboid is centered on the origin, with each edge parallel to one of the axes. THREE.BoxGeometry. width. Height. 
 
 .
+.
 
 I have also learned another way that allows you to specify whether or not a variable is modifiable.
 `const` 
-
 Which works similar like a variable. 
 
+.
+.
+
+Math. sin() method returns a numeric value between -1 and 1, which represents the sine of the angle given in radians. Because sin() is a static method of Math , you always use it as Math! 
+
+.
+.
 
 
 
-Text
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
