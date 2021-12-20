@@ -24,6 +24,12 @@ Math. sin() method returns a numeric value between -1 and 1, which represents th
 .
 .
 
+A 3D vector is an ordered triplet of numbers (labeled x, y, and z), which can be used to represent a number of things, such as: A direction and length in 3D space. ... In three.
+ 
+ .
+ .
+ 
+ 
 
 
 
