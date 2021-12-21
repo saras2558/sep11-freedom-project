@@ -1,7 +1,7 @@
 # Entry 2
 ##### 12/17/2021
 
-In my last blog, I talked about what I learned, what I considered doing and how I tried to learn to make a 3D figure. In this blog, I will be talking about what I tried doing, how I faced some of the challenges in learning new code, and what I did to know them/ have them in mind. I will talk about my plans to keep working on this during the winter break. I will also talk about how three.js had a very big impact on this. 
+In my last blog, I talked about what I learned, what I considered doing and how I tried to learn to make a 3D figure. In this blog, I will be talking about what I learned, how I faced some of the challenges in learning new code, and what I did to know them/ have them in mind. I will talk about my plans to keep working on this during the winter break. 
 
 ### New things I have learned:
 
@@ -31,7 +31,7 @@ A 3D vector is an ordered triplet of numbers (labeled x, y, and z), which can be
  
 I was wondering what `THREE.Mesh` would do. I searched it up on google and read multiple articles, but for short: A mesh is an object that takes a geometry, and applies a material to it, which we then can insert to our scene, and move freely around. By default, when we call a scene.
 
-All of these new information, I wrote them down on my notes, so I don't forget. I also used them to try and create a scene. 
+All of these new information, I wrote them down on my notes, so I don't forget. I will also use them to try and create a scene, for next time. 
 
 ### What I will do over the break
 
