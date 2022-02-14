@@ -30,6 +30,7 @@ Now I wanted to see it in action so I tried to edit some of the code that was al
 Although it does have new codes, which I would like to search more, knowing what the code did helped me take the first step. 
 Below is also another a screenshot, that explains the code or the structure of `camera.updateProjectionMartix();` 
 
+<img src="Screenshot 2022-02-13 9.32.57 PM.png" 
 
 These define the camera's viewing frustum. 
 
