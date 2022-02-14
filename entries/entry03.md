@@ -24,6 +24,9 @@ They said that it has three js to evaluate these parameters and form a new proje
 
 ---
 
+Now I wanted to see it in action so I tried to edit some of the code that was already written. The screenshot below shows the code and the result: 
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
