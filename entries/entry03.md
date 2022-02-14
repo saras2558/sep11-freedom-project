@@ -1,7 +1,7 @@
 # Entry 3
 ##### 2/12/2022
 
-### Contact 
+## Contact 
 
 During these past few weeks, I have been learning more about three.js. I am realizing now that it is not an easy thing to learn. So I decided to start fresh, since I couldn’t understand what I was learning. 
 
@@ -25,7 +25,23 @@ They said that it has three js to evaluate these parameters and form a new proje
 ---
 
 Now I wanted to see it in action so I tried to edit some of the code that was already written. The screenshot below shows the code and the result: 
+ `image`
 
+Although it does have new codes, which I would like to search more, knowing what the code did helped me take the first step. 
+Below is also another a screenshot, that explains the code or the structure of `camera.updateProjectionMartix();` 
+
+
+These define the camera's viewing frustum. 
+
+---
+
+## Skills: 
+
+I used the skills on how to google, and organization. I googled and searched for solutions that led me to the video. Then I used organization by organizing my files and making my image show on github. I also used my notes to help me not forget the code I am learning. 
+
+## Ep: 
+
+In my last entries, I jumped right 4. However, I really think I am around 1 or 2. I need to do a lot of research and learn many codes. Next, I will learn more of the code I saw and efinalty take it a step at a time. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
