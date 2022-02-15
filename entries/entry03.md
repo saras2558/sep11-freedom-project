@@ -26,13 +26,13 @@ They said that it has three js to evaluate these parameters and form a new proje
 
 Now I wanted to see it in action so I tried to edit some of the code that was already written. The screenshot below shows the code and the result: 
 
- ![screenshot](/sep11-freedom-project/img/Screenshot.png)
+ <img src="blob:chrome-untrusted://media-app/4c4fb698-2ade-4e17-b33b-d437ced2de3d" alt=""/>![image](https://user-images.githubusercontent.com/73479762/154108737-e7849741-ea49-4b9d-87a8-55b1edff56ca.png)
 
 
 Although it does have new codes, which I would like to search more, knowing what the code did helped me take the first step. 
 Below is also another a screenshot, that explains the code or the structure of `camera.updateProjectionMartix();` 
 
-![screenshot](/sep11-freedom-project/img/Screenshot2.png)
+ <img src="blob:chrome-untrusted://media-app/0467fc9f-0beb-4db5-8a4f-0f506f0122dc" alt=""/>![image](https://user-images.githubusercontent.com/73479762/154108428-a4f1bea7-6874-486e-95ce-b6de44bffc1a.png)
 
 These define the camera's viewing frustum. 
 
