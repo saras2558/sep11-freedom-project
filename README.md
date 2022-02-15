@@ -5,7 +5,7 @@ by Sara Saleh
 The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a 3D heart. This blog will walk through my process of independently studying X in order to make X.
 
 ## Links
 
