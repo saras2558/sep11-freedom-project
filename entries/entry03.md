@@ -25,12 +25,14 @@ They said that it has three js to evaluate these parameters and form a new proje
 ---
 
 Now I wanted to see it in action so I tried to edit some of the code that was already written. The screenshot below shows the code and the result: 
- `image`
+
+ ![](sep11-freedom-project/img/Screenshot.png)
+
 
 Although it does have new codes, which I would like to search more, knowing what the code did helped me take the first step. 
 Below is also another a screenshot, that explains the code or the structure of `camera.updateProjectionMartix();` 
 
-![](sep11-freedom-project/img/Screenshot 2022-02-13 9.32.57 PM.png)
+![](sep11-freedom-project/img/Screenshot2.png)
 
 These define the camera's viewing frustum. 
 
