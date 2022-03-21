@@ -45,7 +45,7 @@ Or [this](https://jsfiddle.net/) which has some code for a figure already:
 <img src="blob:chrome-untrusted://media-app/847b3578-8a07-4bf0-9b81-8188e330409f" alt=""/>![image](https://user-images.githubusercontent.com/73479762/159195509-6067d77d-db25-4762-ab07-0e0ac45939f2.png)
 
 
-These are just ideas. 
+These are just ideas. However, I think using my IDE is the safest place to start my code. 
 
 ---
 
