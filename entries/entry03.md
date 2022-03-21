@@ -1,7 +1,7 @@
 # Entry 3
 ##### 2/12/2022
 
-## Contact 
+## Context 
 
 During these past few weeks, I have been learning more about three.js. I am realizing now that it is not an easy thing to learn. So I decided to start fresh, since I couldn’t understand what I was learning. 
 
@@ -44,7 +44,7 @@ I used the skills on how to google, and organization. I googled and searched for
 
 ## Ep: 
 
-For my Engengineering design process, in my last entries I jumped right 4. However, I really think I am around 1 or 2. I need to do a lot of research and learn many codes. Next, I will learn more of the code I saw and finally take it a step at a time. 
+For my Engineering design process, in my last entries I jumped right 4. However, I really think I am around 1 or 2. I need to do a lot of research and learn many codes. Next, I will learn more of the code I saw and finally take it a step at a time. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
