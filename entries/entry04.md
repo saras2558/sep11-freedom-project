@@ -1,6 +1,8 @@
 # Entry 4
 ##### 3/20/2022
 
+## Context
+
 In my last entry, I wrote about how I started taking baby steps at first. Learning my tool first, step by step is key before coding it. However, I realized that time is passing by fast. So, I need to do bare minimum (mvp) 
 
 I needed to spend more time on writing down the basics so I could make a shape---at least. 
