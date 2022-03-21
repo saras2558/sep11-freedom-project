@@ -24,6 +24,9 @@ THREE.CubeUVRefractionMapping
 
 ```
 
+These define the texture's mapping mode.
+`UVMapping` is the default, and maps the texture using the mesh's UV coordinates.
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
