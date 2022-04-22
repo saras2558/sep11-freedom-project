@@ -1,7 +1,7 @@
 # Entry 3
 ##### 2/12/2022
 
-## Contact 
+## Context 
 
 During these past few weeks, I have been learning more about three.js. I am realizing now that it is not an easy thing to learn. So I decided to start fresh, since I couldn’t understand what I was learning. 
 
@@ -25,12 +25,14 @@ They said that it has three js to evaluate these parameters and form a new proje
 ---
 
 Now I wanted to see it in action so I tried to edit some of the code that was already written. The screenshot below shows the code and the result: 
- `image`
+
+ <img src="blob:chrome-untrusted://media-app/4c4fb698-2ade-4e17-b33b-d437ced2de3d" alt=""/>![image](https://user-images.githubusercontent.com/73479762/154108737-e7849741-ea49-4b9d-87a8-55b1edff56ca.png)
+
 
 Although it does have new codes, which I would like to search more, knowing what the code did helped me take the first step. 
 Below is also another a screenshot, that explains the code or the structure of `camera.updateProjectionMartix();` 
 
-<img src="Screenshot 2022-02-13 9.32.57 PM.png" 
+ <img src="blob:chrome-untrusted://media-app/0467fc9f-0beb-4db5-8a4f-0f506f0122dc" alt=""/>![image](https://user-images.githubusercontent.com/73479762/154108428-a4f1bea7-6874-486e-95ce-b6de44bffc1a.png)
 
 These define the camera's viewing frustum. 
 
@@ -42,7 +44,7 @@ I used the skills on how to google, and organization. I googled and searched for
 
 ## Ep: 
 
-In my last entries, I jumped right 4. However, I really think I am around 1 or 2. I need to do a lot of research and learn many codes. Next, I will learn more of the code I saw and efinalty take it a step at a time. 
+For my Engineering design process, in my last entries I jumped right 4. However, I really think I am around 1 or 2. I need to do a lot of research and learn many codes. Next, I will learn more of the code I saw and finally take it a step at a time. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
