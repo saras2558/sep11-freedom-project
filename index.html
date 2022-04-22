@@ -35,7 +35,7 @@
 			  light.position.y = 500;
 			  camera.add( light );
 
-			  var light = new THREE.DirectionalLight(0x9955ff, 4);
+			  var light = new THREE.DirectionalLight(0x9955ff, 3);
 			  light.position.x = 500;
 			  light.position.y = -500;
 			  light.position.z = -150;
@@ -73,7 +73,7 @@
 
 		for (var i=-window.innerWidth/2; i<window.innerWidth/2; i+=60){
 	    	for (var l=0; l<window.innerHeight; l+=60){
-	    	 addShape( heartShape,  settings, '#f71e1e',   i, l, 0, 0.8, 0.8, Math.PI, 0.1+0.3 );
+	    	 addShape( heartShape,  settings, '#f71e1e', i, l, 0, 0.8, 0.8, 3.14, 0.4 ); // or Math.PI
 			 }
 		 }
 
