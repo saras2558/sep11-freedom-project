@@ -32,23 +32,7 @@
 			  scene.add( camera );
 
 
-			// the light reflected on the shape
-			  var light = new THREE.DirectionalLight(0x9955ff, 2);
-			  light.position.x = -500;
-			  light.position.y = 500;
-			  camera.add( light );
-
-			  var light = new THREE.DirectionalLight(0x9955ff, 10);
-			  light.position.x = 500;
-			  light.position.y = -500;
-			  light.position.z = -150;
-			  camera.add( light );
-
-			  scene.background = new THREE.Color( '#c70e1d' );
-
-			  var x = -25, y = -250;
-			  var heartShape = new THREE.Shape();
-			  heartShape.moveTo( x + 25, y + 25 );
+		
 
 			  // the curves of the shape
 			  var x = -25, y = -250;
@@ -77,8 +61,28 @@
 		for (var i=-window.innerWidth/2; i<window.innerWidth/2; i+=60){
 	    	for (var l=0; l<window.innerHeight; l+=60){
 	    	 addShape( heartShape,  settings, '#f71e1e', i, l, 0, 0.8, 0.8, 3.14, 0.4 ); // or Math.PI for 3.14
+	    	
 			 }
 		 }
+
+
+			// the light reflected on the shape
+			  var light = new THREE.DirectionalLight(0x9955ff, 2);
+			  light.position.x = -500;
+			  light.position.y = 500;
+			  camera.add( light );
+
+			  var light = new THREE.DirectionalLight(0x9955ff, 10);
+			  light.position.x = 500;
+			  light.position.y = -500;
+			  light.position.z = -150;
+			  camera.add( light );
+
+			  scene.background = new THREE.Color( '#c70e1d' );
+
+			  var x = -25, y = -250;
+			  var heartShape = new THREE.Shape();
+			  heartShape.moveTo( x + 25, y + 25 );
 
 			  renderer = new THREE.WebGLRenderer( { antialias: true } );
 			  renderer.setPixelRatio( window.devicePixelRatio );
