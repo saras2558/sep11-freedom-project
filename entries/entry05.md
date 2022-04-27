@@ -178,8 +178,14 @@ I think I am around 6 or 7 in my engineering design process because I have my mv
 
 I am thinking of fading the heart on the back and creating one big one in the front but I’m still unsure. I also need to comment my code :) 
 
+---
+
+## Preview of the mvp 
+
+[MVP](https://saras2558.github.io/sep11-freedom-project/)
 
 
+---
 
 [Previous](entry04.md) | [Next](entry06.md)
 
