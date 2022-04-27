@@ -176,7 +176,9 @@ Organizing my time was just as important. I took each day on the spring break, t
 
 I think I am around 6 or 7 in my engineering design process because I have my mvp done but it needs major improvements to my liking. Next time or as of now, I am trying to learn other types of code such as shadows and other effects to make my presentation more beautiful. 
 
-I am thinking of fading the heart on the back and creating one big one in the front but I’m still unsure. I also need to comment my code :) 
+I am thinking of fading the heart on the back and creating one big one in the front but Coding this was really hard so I’m unsure.  
+
+I also need to comment my code :) 
 
 ---
 
