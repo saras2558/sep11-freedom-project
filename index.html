@@ -15,13 +15,16 @@
 
 
 
-
+ 
 			var container;
 			var camera;
 			var scene;
 			var renderer;
 			var shapes = [];
+		    var x = -25;
+			var y = -250;
 			init();
+			onDocumentMouseMove();
 
 			function init(){
 			  container = document.createElement( 'div' );
@@ -35,7 +38,6 @@
 		
 
 			  // the curves of the shape
-			  var x = -25, y = -250;
 			  var heartShape = new THREE.Shape();
 			 // heartShape.moveTo(x + 2.5, y + 2.5);
 				// heartShape.bezierCurveTo(x + 5, y + 2.5, x + 2, y, x, y);
@@ -55,16 +57,21 @@
 			heartShape.bezierCurveTo(x + 80, y + 35, x + 80, y, x + 50, y);
 			heartShape.bezierCurveTo(x + 35, y, x + 25, y + 25, x + 25, y + 25);
 
-			var settings = { amount: 1, bevelEnabled: true, bevelSegments: 20, steps: 2, bevelSize: 10, bevelThickness: 50 };
+			var settings = { depth: 2, bevelEnabled: true, bevelSegments: 20, steps: 2, bevelSize: 20, bevelThickness: 30 };
+
+					// addShape(heartShape, settings, 'red', 100, 200, 0, 2.3, 10, Math.PI, 0.3  );
+				 //   addShape(heartShape, settings, 'red', 200, 300, 0, 1.3, 0.9, Math.PI, 0.3  );
+					// addShape(heartShape, settings, 'red', 50, 60, 0, 1.3, 0.9, Math.PI, 0.3  );
+					// addShape(heartShape, settings, 'red', 300, 105, 0, 1.3, 0.9, Math.PI, 0.3  );
+					// addShape(heartShape, settings, 'red', 10, 5, 0, 1.3, 0.9, Math.PI, 0.3  );
 
 
-		for (var i=-window.innerWidth/2; i<window.innerWidth/2; i+=60){
-	    	for (var l=0; l<window.innerHeight; l+=60){
-	    	 addShape( heartShape,  settings, '#f71e1e', i, l, 0, 0.8, 0.8, 3.14, 0.4 ); // or Math.PI for 3.14
-	    	
-			 }
-		 }
 
+			 for (var i=-window.innerWidth/2; i<window.innerWidth/2; i+=100){
+			    for (var l=0; l<window.innerHeight; l+=60 + Math.random()* 50){
+			      addShape( heartShape,  settings, 'red',   i, l, 5, Math.random()*0.8, Math.random()*0.8, Math.PI, 0.2+Math.random()*0.4 );
+			    }
+			  }
 
 			// the light reflected on the shape
 			  var light = new THREE.DirectionalLight(0x9955ff, 2);
@@ -72,18 +79,17 @@
 			  light.position.y = 500;
 			  camera.add( light );
 
-			  var light = new THREE.DirectionalLight(0x9955ff, 10);
+			  var light = new THREE.DirectionalLight(0x9955ff, 5);
 			  light.position.x = 500;
 			  light.position.y = -500;
 			  light.position.z = -150;
 			  camera.add( light );
 
-			  scene.background = new THREE.Color( '#c70e1d' );
+			  scene.background = new THREE.Color( 'black' ); // background color
 
-			  var x = -25;
-			  var y = -250;
+			 
 			  var heartShape = new THREE.Shape();
-			  heartShape.moveTo( x + 25, y + 25 );
+			  heartShape.moveTo( x + 50, y + 50 );
 
 			  renderer = new THREE.WebGLRenderer( { antialias: true } );
 			  renderer.setPixelRatio( window.devicePixelRatio );
@@ -91,13 +97,26 @@
 			  container.appendChild( renderer.domElement );
 
 			  render();
+			  
+
 
 		}
+
+		var controls = new OrbitControls( camera, renderer.domElement );
+			controls.target.set( 0, 0.5, 0 );
+			controls.update();
+			controls.enablePan = false;
+			controls.enableDamping = true;
+
+
+
+
+
 
 			function addShape( shape, settings , color, x, y, z, rx, ry, rz, s ) {
 			  var geometry = new THREE.ExtrudeGeometry( shape, settings );
 			  var mesh = new THREE.Mesh( geometry, new THREE.MeshPhongMaterial( { color: color } ) );
-			  mesh.position.set( x+25, y-50, z );
+			  mesh.position.set( x+1, y-4, z );
 			  mesh.rotation.set( rx, ry, rz );
 			  mesh.scale.set( s, s, s );
 			  shapes.push({shape: mesh, x, y, z});
