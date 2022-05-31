@@ -2,16 +2,16 @@
 by Sara Saleh
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about learning a new JavaScript tool and creating an interactive program using a JS library, framework, etc. The purpose of these blogs is to serve as a way to thoroughly illustrate my growth, challenges, and takeaways working towards my project. 
 
 ## Content
-For my project, I am making a 3D heart. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making 3D hearts. This blog will walk through my process of independently studying three.js in order to make 3D heart figures.
 
 ## Links
 
-Product
+Product: https://saras2558.github.io/sep11-freedom-project/
 
-Presentation
+Presentation: https://docs.google.com/presentation/d/1Phj-SHh2AL7CZKxKwVpOGaa4g97fERDvkdrnIgn3EgI/edit#slide=id.g10e803e8d28_0_1120 
 
 ## Implications
 X
