@@ -73,10 +73,17 @@ However, next time I'll keep these two takeaways in mind!!
 
 One of my other takeaways is learning how to write a hook. Although it was very hard to write my hook. I need to think more on how to engage the reader, while looking more excited and energetic. 
 
+### Sources: 
+
+My [notes](https://docs.google.com/document/d/1OTFVAGT4atzQ2zkOuXfJ7w9TP9sDS76BPN41jUihY9g/edit?usp=sharing) that had my elevator pitch that I followed while presenting to the judges is shown all the way at the bottom in unit 4: Freedom Project.
+
+My [slides](https://docs.google.com/presentation/d/1Phj-SHh2AL7CZKxKwVpOGaa4g97fERDvkdrnIgn3EgI/edit?usp=sharing) that I presented in class.
+
+---
 
 ### Skills: 
 
-The skills I used during this project are googling and google tricks. Googling helped me pick a nice frame presentation. (Slides go) [https://slidesgo.com/] was a great website that gives free theme slides.
+The skills I used during this project are googling and google tricks. Googling helped me pick a nice frame presentation. [Slides go](https://slidesgo.com/) was a great website that gives free theme slides.
 
 I also used copy and paste (command C), selecting all (Command A), and many others that helped me with my time and made it easier to work with computers. 
 
@@ -86,7 +93,6 @@ I also used copy and paste (command C), selecting all (Command A), and many othe
 For my engineering design process, I think I am around 8. I am done with my project and all my presentations. This includes the result and the end! :)
 
 Next time, I will need to work on my time management. This project was taking most of my time which was difficult since I had many exams and SAT. However, I needed to give this as much time as I could since it was very important. 
-
 
 
 
