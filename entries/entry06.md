@@ -34,12 +34,6 @@ I was sitting at the second table and waiting for my turn. To present my present
 
 When it was my turn, I first said hi and began my elevator pitch. First, introducing myself and the tool I used, three.js. 
 
-### Takeaways from giving Expo elevator pitch (presenting)
-
-I was sitting at the second table and waiting for my turn. To present my presentation. I did memorize my elevator pitch before but I knew that my mind would go blank as soon as the Judges came to me. 
-
-When it was my turn, I first said hi and began my elevator pitch. First, introducing myself and the tool I used, three.js. 
-
 I talked about what three.js is and how it is used mostly in 3D. Then I talked about what my project is about and how it looks. 
 
 I can see one of the judges was interested but the other kept looking away. It taught me, next time, to speak louder and to engage with the audience that might lose interest. 
