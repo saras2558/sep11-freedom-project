@@ -14,7 +14,24 @@ Product: https://saras2558.github.io/sep11-freedom-project/
 Presentation: https://docs.google.com/presentation/d/1Phj-SHh2AL7CZKxKwVpOGaa4g97fERDvkdrnIgn3EgI/edit#slide=id.g10e803e8d28_0_1120 
 
 ## Implications
-X
+
+### Global: 
+Environment: This project could help make other 3D shapes for economic issues, which could help see problems clearly and solve them. 
+
+
+### Social: 
+Individual: Good way to look at and entertain yourself! 
+
+
+Relationships: This is great for valentines day which could be presented to show love. This doesn’t have to be for valentines day only, it could also be a way to show love. 
+
+
+Cultures: Great way to show love for culture 
+
+
+### Economics: 
+Jobs: 3D shapes, hearts, are great for designing an advertisement. It’s also a great way to see what the design is before applying it to real life. This helps jobs such as designing shoes, jewelry, or anything in particular. 
+
 
 ---
 
