@@ -5,7 +5,7 @@ by Sara Saleh
 The "Freedom Project" for SEP11 is all about learning a new JavaScript tool and creating an interactive program using a JS library, framework, etc. The purpose of these blogs is to serve as a way to thoroughly illustrate my growth, challenges, and takeaways working towards my project. 
 
 ## Content
-For my project, I am making 3D hearts. This blog will walk through my process of independently studying three.js in order to make 3D heart figures.
+For my project, I made 3D hearts using three.js. This blog will walk through my process of independently studying three.js in order to make 3D heart figures.
 
 ## Links
 
